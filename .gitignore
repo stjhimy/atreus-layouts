@@ -1,0 +1,13 @@
+db/schema.rb
+tmp/*
+log/*
+public/system/*
+db/*.sqlite3
+rerun.txt
+.DS_Store
+*.swp
+*.swo
+*.swn
+*~.nib
+.bundle
+.sass-cache
